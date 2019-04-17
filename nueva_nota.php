@@ -4,7 +4,6 @@ include('menu.php');
 require_once ("config/db.php");//Contiene las variables de configuracion para conectar a la base de datos
 require_once ("config/conexion.php");
 //include('conexion.php');
-
 $sql1="select * from users where user_id=$_SESSION[user_id]";
 $rw1=mysqli_query($con,$sql1);//recuperando el registro
 $rs1=mysqli_fetch_array($rw1);//trasformar el registro en un vector asociativo
