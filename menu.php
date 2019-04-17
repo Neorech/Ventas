@@ -175,6 +175,8 @@ function menu1(){
                     <li><a href="pagos.php">Compras por Pagar</a></li>
                       <li><a href="pagosproveedores.php">Consulta de pago de compras</a></li> 
                    
+
+                      
                     </li>
                   </ul>
                 </li>
