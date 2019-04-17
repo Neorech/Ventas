@@ -68,6 +68,7 @@ if($a[10]==0){
     
   }
 </script>
+<script src="JsBarcode.all.min.js"></script>
 <style type="text/css"> 
     .fijo {
 	background: #333;
