@@ -332,6 +332,7 @@ $a="http://".$host.$url;
 <?php
 }
 
+
 function footer(){
     ?>
 <footer>
@@ -339,7 +340,7 @@ function footer(){
     
     
     <div class="copyright-info">
-            <p class="pull-right">Sistemas Velazco.
+            <p class="pull-right">Edgar Gonzales (Desarrollador)
             </p>
           </div>
           <div class="clearfix"></div>
